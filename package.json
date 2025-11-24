@@ -1,0 +1,18 @@
+{
+  "name": "interview-notes",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "面试八股文 - 技术面试题库",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress preview docs"
+  },
+  "keywords": ["interview", "notes", "mysql", "redis", "database"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vitepress": "^1.0.1",
+    "vue": "^3.3.0"
+  }
+}
