@@ -12,7 +12,8 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: 'MySQL', link: '/mysql/' },
       { text: 'Redis', link: '/redis/' },
-      { text: '操作系统', link: '/os/' }
+      { text: '操作系统', link: '/os/' },
+      { text: '简历', link: '/resume/' }
     ],
 
     // 侧边栏
@@ -52,6 +53,15 @@ export default defineConfig({
           items: [
             { text: '首页', link: '/os/' },
             { text: '敬请期待...', link: '/os/' }
+          ]
+        }
+      ],
+      '/resume/': [
+        {
+          text: '简历制作教程',
+          collapsed: false,
+          items: [
+            { text: '首页', link: '/resume/' }
           ]
         }
       ]

@@ -24,6 +24,12 @@
   <p style="margin: 10px 0 0 0; font-size: 14px; opacity: 0.8;">敬请期待...</p>
 </a>
 
+<a href="/resume/" style="display: block; padding: 30px; border-radius: 12px; text-decoration: none; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); color: white; box-shadow: 0 4px 15px rgba(0,0,0,0.2); transition: transform 0.3s ease; min-width: 250px; text-align: center;">
+  <h2 style="margin: 0 0 10px 0; font-size: 24px;">📝 简历</h2>
+  <p style="margin: 0; opacity: 0.9;">制作高分简历指南</p>
+  <p style="margin: 10px 0 0 0; font-size: 14px; opacity: 0.8;">✓ 8大模块 | 撰写技巧 | 实战指南</p>
+</a>
+
 </div>
 
 ---
